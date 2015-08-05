@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 介绍(2015)
 
 uCore OS Labs是用于清华大学计算机系本科操作系统课程的教学试验内容。
@@ -228,3 +229,7 @@ David A. Holland。包含的ostep练习的版权属于Remzi H. Arpaci-Dusseau an
 陈渝、王乃铮、向勇，并采用GPL License. ucore OS相关的文档版权属于
 陈渝、向勇，并采用 
 Creative Commons Attribution/Share-Alike (CC-BY-SA) License. 
+=======
+# ucore_lab
+OS lab from QinghuaX
+>>>>>>> 17d3cabf982a9ee1b51174e36637cc4d87a24bf0
